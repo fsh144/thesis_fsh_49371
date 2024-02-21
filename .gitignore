@@ -2,7 +2,7 @@
 node_modules/
 
 # Environment
-db-data/
+.db-data/
 .env
 .DS_Store
 .env.local
